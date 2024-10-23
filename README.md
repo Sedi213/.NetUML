@@ -1,0 +1,2 @@
+Hi,  
+I'm Kostiantyn Kovtun. This is my first time creating a diagram using draw.io, so I wasn't entirely sure how the final view would appear. To make sure everything looks as expected, I've also included a PNG image showing how I see it.
